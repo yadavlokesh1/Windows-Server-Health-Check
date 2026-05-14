@@ -1,0 +1,4 @@
+ServerName,DeviceID,FreeSpaceGB,TotalSpaceGB,UsedSpacePercent
+SERVER01,C:,120.45,250,51.82
+SERVER01,D:,430.12,500,13.98
+SERVER01,E:,52.33,100,47.67
